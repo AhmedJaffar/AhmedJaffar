@@ -46,7 +46,7 @@ I'm a manager at Deloitte in Toronto, working in technology advisory. Before tha
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedJaffar&theme=github-dark-blue" alt="Ahmed Jaffar contribution streak" />
+ />
 
 <br/>
 
@@ -65,13 +65,5 @@ I'm a manager at Deloitte in Toronto, working in technology advisory. Before tha
 **The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/ahmedjjaffar/).**
 More about my work: [ahmedjaffar.ca](https://ahmedjaffar.ca)
 
-<br/>
-
-[![Followers](https://img.shields.io/github/followers/AhmedJaffar?style=for-the-badge&logo=github&label=Followers)](https://github.com/AhmedJaffar?tab=followers)
-![Profile views](https://komarev.com/ghpvc/?username=AhmedJaffar&color=2F81F7&style=for-the-badge&label=Profile+views)
-![Education](https://img.shields.io/badge/BSc-Computer_Science-8A2BE2?style=for-the-badge)
-![Western](https://img.shields.io/badge/Western-University-4F2683?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-AI_Fintech_Data-blue?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open_Source-contributor-3DA639?style=for-the-badge)
 
 </div>
