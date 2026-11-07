@@ -20,8 +20,6 @@ I love building things, so most of what is here is me experimenting with AI, dat
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 </div>
 
----
-
 ## GitHub in numbers
 
 <div align="center">
