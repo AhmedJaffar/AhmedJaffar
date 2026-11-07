@@ -18,7 +18,7 @@
 
 ## About me
 
-I'm a manager at Deloitte in Toronto, working in technology advisory. Before that, I co-founded Fibonacci IT, a blockchain startup. I studied computer science at Western University. I still like building things, so most of what is here is me experimenting with AI, data, and fintech ideas.
+I love building things, so most of what is here is me experimenting with AI, data, and fintech ideas.
 
 ---
 
