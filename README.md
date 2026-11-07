@@ -22,20 +22,6 @@ I'm a manager at Deloitte in Toronto, working in technology advisory. Before tha
 
 ---
 
-## Featured work
-
-| Project | What it is |
-|---|---|
-| [OpenKeystroke](https://github.com/AhmedJaffar/OpenKeystroke) | An open research platform for authorized acoustic side-channel experiments and privacy defense evaluation. 8 models, 6 defenses, honest group-disjoint evaluation, fully reproducible runs. |
-| [AI Inference Control Plane](https://github.com/AhmedJaffar/AI-Inference-Control-Plane) | A toolkit for measuring AI inference cost and comparing model configurations on the cost of accepted work. |
-| [Financial Modeling Toolkit](https://github.com/AhmedJaffar/Financial-Modeling-Toolkit) | A Python library connecting financial forecasts and DCF valuation with portfolio construction, risk analysis, and quantitative research. |
-| [World Bank Data Explorer](https://github.com/AhmedJaffar/World-Bank-DataBase) | An interface for exploring World Bank and WHO open data with interactive charts. |
-| [Sentiment Analysis](https://github.com/AhmedJaffar/TwitterSentiment) | NLP research on social media sentiment and stock price movements, with LSTM experiments. |
-
-Project write-ups with the full story live at [ahmedjaffar.ca](https://ahmedjaffar.ca).
-
----
-
 ## Toolbox
 
 <div align="center">
@@ -48,6 +34,14 @@ Project write-ups with the full story live at [ahmedjaffar.ca](https://ahmedjaff
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
@@ -69,5 +63,13 @@ Project write-ups with the full story live at [ahmedjaffar.ca](https://ahmedjaff
 
 **The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/ahmedjjaffar/).**
 More about my work: [ahmedjaffar.ca](https://ahmedjaffar.ca)
+
+<br/>
+
+[![Followers](https://img.shields.io/github/followers/AhmedJaffar?style=for-the-badge&logo=github&label=Followers)](https://github.com/AhmedJaffar?tab=followers)
+![Education](https://img.shields.io/badge/BSc-Computer_Science-8A2BE2?style=for-the-badge)
+![Western](https://img.shields.io/badge/Western-University-4F2683?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-AI_Fintech_Data-blue?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open_Source-contributor-3DA639?style=for-the-badge)
 
 </div>
