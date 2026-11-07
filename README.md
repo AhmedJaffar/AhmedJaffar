@@ -36,8 +36,6 @@ I love building things, so most of what is here is me experimenting with AI, dat
 
 </div>
 
----
-
 ## Connect
 
 <div align="center">
