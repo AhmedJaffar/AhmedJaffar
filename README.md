@@ -5,7 +5,6 @@
 <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=760&lines=Manager+at+Deloitte+%7C+Technology+Advisory;Co-founder+of+Fibonacci+IT;I+build+AI%2C+data+and+fintech+software;Computer+Science%2C+Western+University"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=760&lines=Manager+at+Deloitte+%7C+Technology+Advisory;Co-founder+of+Fibonacci+IT;I+build+AI%2C+data+and+fintech+software;Computer+Science%2C+Western+University" alt="Ahmed Jaffar roles" /></a>
 
 ---
-
 ## About me
 
 I love  building things, so most of what is here is me experimenting with AI, data, and fintech ideas.
@@ -33,10 +32,6 @@ I love  building things, so most of what is here is me experimenting with AI, da
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedJaffar&theme=github_dark" alt="Ahmed Jaffar GitHub profile details" />
-
-<br/>
-
- />
 
 <br/>
 
