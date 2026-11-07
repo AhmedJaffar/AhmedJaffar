@@ -6,19 +6,12 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-ahmedjaffar.ca-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ahmedjaffar.ca)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed+Jaffar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedjjaffar/)
-[![Deloitte](https://img.shields.io/badge/Manager-Deloitte-86BC25?style=for-the-badge)](https://ahmedjaffar.ca)
-[![Toronto](https://img.shields.io/badge/Based_in-Toronto%2C+Canada-red?style=for-the-badge&logo=googlemaps&logoColor=white)](https://ahmedjaffar.ca)
-[![Open to work](https://img.shields.io/badge/Open_to-collaboration-brightgreen?style=for-the-badge)](#connect)
-
-</div>
 
 ---
 
 ## About me
 
-I'm a manager at Deloitte in Toronto, working in technology advisory. Before that, I co-founded Fibonacci IT, a blockchain startup. I studied computer science at Western University. I still like building things, so most of what is here is me experimenting with AI, data, and fintech ideas.
+I love  building things, so most of what is here is me experimenting with AI, data, and fintech ideas.
 
 ---
 
