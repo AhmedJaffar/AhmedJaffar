@@ -18,7 +18,7 @@
 
 ## About me
 
-I love building things, so most of what is here is me experimenting with AI, data, and fintech ideas.
+I'm a manager at Deloitte in Toronto, working in technology advisory. Before that, I co-founded Fibonacci IT, a blockchain startup. I studied computer science at Western University. I still like building things, so most of what is here is me experimenting with AI, data, and fintech ideas.
 
 ---
 
@@ -51,7 +51,17 @@ I love building things, so most of what is here is me experimenting with AI, dat
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedJaffar&theme=github_dark" alt="Ahmed Jaffar GitHub profile details" />
+
+<br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedJaffar&theme=github-dark-blue" alt="Ahmed Jaffar contribution streak" />
+
+<br/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedJaffar&theme=github_dark" alt="Ahmed Jaffar GitHub stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedJaffar&theme=github_dark" alt="Ahmed Jaffar repositories per language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmedJaffar&theme=github_dark" alt="Ahmed Jaffar most used languages" />
 
 </div>
 
@@ -67,6 +77,7 @@ More about my work: [ahmedjaffar.ca](https://ahmedjaffar.ca)
 <br/>
 
 [![Followers](https://img.shields.io/github/followers/AhmedJaffar?style=for-the-badge&logo=github&label=Followers)](https://github.com/AhmedJaffar?tab=followers)
+![Profile views](https://komarev.com/ghpvc/?username=AhmedJaffar&color=2F81F7&style=for-the-badge&label=Profile+views)
 ![Education](https://img.shields.io/badge/BSc-Computer_Science-8A2BE2?style=for-the-badge)
 ![Western](https://img.shields.io/badge/Western-University-4F2683?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-AI_Fintech_Data-blue?style=for-the-badge)
