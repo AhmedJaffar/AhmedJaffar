@@ -4,9 +4,6 @@
 
 <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=760&lines=Manager+at+Deloitte+%7C+Technology+Advisory;Co-founder+of+Fibonacci+IT;I+build+AI%2C+data+and+fintech+software;Computer+Science%2C+Western+University"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=760&lines=Manager+at+Deloitte+%7C+Technology+Advisory;Co-founder+of+Fibonacci+IT;I+build+AI%2C+data+and+fintech+software;Computer+Science%2C+Western+University" alt="Ahmed Jaffar roles" /></a>
 
-<br/>
-
-
 ---
 
 ## About me
