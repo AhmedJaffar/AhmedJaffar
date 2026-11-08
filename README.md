@@ -34,15 +34,6 @@ I love building things, so most of what is here is me experimenting with AI, dat
 
 </div>
 
-## Writing & research
-
-I write about AI cost, inference, and security research on [Substack](https://ahmedjaffar.substack.com), [dev.to](https://dev.to/ahmedjaffar), [Medium](https://medium.com/@ahmedjaffar), and [Hashnode](https://ahmedjaffar.hashnode.dev).
-
-Preprints:
-- "OpenKeystroke: An Open Research Platform for Acoustic Side-Channel Experiments and Privacy-Defense Evaluation" — DOI: [10.5281/zenodo.24045921](https://doi.org/10.5281/zenodo.24045921)
-- "Cost per Accepted Answer: A Method for Measuring the True Cost of LLM Inference" — DOI: [10.5281/zenodo.24047928](https://doi.org/10.5281/zenodo.24047928)
-- Research record: [ORCID](https://orcid.org/0009-0003-7510-6221)
-
 ## Connect
 
 <div align="center">
